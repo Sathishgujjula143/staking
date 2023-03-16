@@ -69,7 +69,7 @@ function App() {
           {/* Hero Content */}
           <div className="hero-content">
             <div className="intro text-center mb-5">
-              <h1 style={{color: 'blue'}}>TelegramDoge Staking</h1>
+              <h1 style={{color: 'blue'}}>BabydogeCEO Staking</h1>
              
             </div>
             {/* Buttons */}
@@ -89,7 +89,7 @@ function App() {
       <div className="row">
         <div className="col-12 col-md-7">
           <div className="card no-hover staking-card single-staking">
-            <h3 className="m-0">Stake TelegramDoge Token &amp; get upto 150% APY</h3>
+            <h3 className="m-0">Stake BabydogeCEO Token &amp; get upto 150% APY</h3>
             <ul className="nav nav-tabs staking-tabs border-0 my-3 my-md-4" id="myTab" role="tablist">
               <li className="nav-item" role="presentation">
                 <a className="tab-link active" id="tab-one-tab" data-toggle="tab" href="#tab-one" role="tab" aria-controls="tab-one" aria-selected="true">45 Days</a>
@@ -117,9 +117,9 @@ function App() {
                   <div className="info-box d-flex justify-content-between">
                     <div className="info-left">
                       <ul className="list-unstyled">
-                        <li><strong>Your Staked TelegramDoge:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Withdraw:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Balance:</strong> 250 TelegramDoge</li>
+                        <li><strong>Your Staked BabydogeCEO:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Withdraw:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Balance:</strong> 250 BabydogeCEO</li>
                       </ul>
                     </div>
                     <div className="info-right d-flex flex-column">
@@ -153,9 +153,9 @@ function App() {
                   <div className="info-box d-flex justify-content-between">
                     <div className="info-left">
                       <ul className="list-unstyled">
-                        <li><strong>Your Staked TelegramDoge:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Withdraw:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Balance:</strong> 250 TelegramDoge</li>
+                        <li><strong>Your Staked BabydogeCEO:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Withdraw:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Balance:</strong> 250 BabydogeCEO</li>
                       </ul>
                     </div>
                     <div className="info-right d-flex flex-column">
@@ -187,9 +187,9 @@ function App() {
                   <div className="info-box d-flex justify-content-between">
                     <div className="info-left">
                       <ul className="list-unstyled">
-                        <li><strong>Your Staked TelegramDoge:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Withdraw:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Balance:</strong> 250 TelegramDoge</li>
+                        <li><strong>Your Staked BabydogeCEO:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Withdraw:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Balance:</strong> 250 BabydogeCEO</li>
                       </ul>
                     </div>
                     <div className="info-right d-flex flex-column">
@@ -221,9 +221,9 @@ function App() {
                   <div className="info-box d-flex justify-content-between">
                     <div className="info-left">
                       <ul className="list-unstyled">
-                        <li><strong>Your Staked TelegramDoge:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Withdraw:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Balance:</strong> 250 TelegramDoge</li>
+                        <li><strong>Your Staked BabydogeCEO:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Withdraw:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Balance:</strong> 250 BabydogeCEO</li>
                       </ul>
                     </div>
                     <div className="info-right d-flex flex-column">
@@ -255,9 +255,9 @@ function App() {
                   <div className="info-box d-flex justify-content-between">
                     <div className="info-left">
                       <ul className="list-unstyled">
-                        <li><strong>Your Staked TelegramDoge:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Withdraw:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Balance:</strong> 250 TelegramDoge</li>
+                        <li><strong>Your Staked BabydogeCEO:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Withdraw:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Balance:</strong> 250 BabydogeCEO</li>
                       </ul>
                     </div>
                     <div className="info-right d-flex flex-column">
@@ -289,9 +289,9 @@ function App() {
                   <div className="info-box d-flex justify-content-between">
                     <div className="info-left">
                       <ul className="list-unstyled">
-                        <li><strong>Your Staked TelegramDoge:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Withdraw:</strong> 250 TelegramDoge</li>
-                        <li><strong>Available Balance:</strong> 250 TelegramDoge</li>
+                        <li><strong>Your Staked BabydogeCEO:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Withdraw:</strong> 250 BabydogeCEO</li>
+                        <li><strong>Available Balance:</strong> 250 BabydogeCEO</li>
                       </ul>
                     </div>
                     <div className="info-right d-flex flex-column">
@@ -342,12 +342,12 @@ function App() {
           <div className="staking-items mt-4 mt-md-0">
             {/* Single Card */}
             <div className="card no-hover staking-card">
-              <h3 className="m-0">9,574,20.84 TelegramDoge</h3>
-              <p>Total Staked TelegramDoge</p>
+              <h3 className="m-0">9,574,20.84 BabydogeCEO</h3>
+              <p>Total Staked BabydogeCEO</p>
             </div>
             {/* Single Card */}
             <div className="card no-hover staking-card my-4">
-              <h3 className="m-0">57000 TelegramDoge</h3>
+              <h3 className="m-0">57000 BabydogeCEO</h3>
               <p>Total Referral Commision</p>
             </div>
             {/* Single Card */}
@@ -369,19 +369,19 @@ function App() {
         <div className="col-12 col-md-4">
           <div className="card no-hover staking-card">
             <h3 className="m-0">Level 1 - (3%)</h3>
-            <p>200 TelegramDoge</p>
+            <p>200 BabydogeCEO</p>
           </div>
         </div>
         <div className="col-12 col-md-4">
           <div className="card no-hover staking-card">
             <h3 className="m-0">Level 2 - (2%)</h3>
-            <p>210 TelegramDoge</p>
+            <p>210 BabydogeCEO</p>
           </div>
         </div>
         <div className="col-12 col-md-4">
           <div className="card no-hover staking-card">
             <h3 className="m-0">Level 3 - (1%)</h3>
-            <p>210 TelegramDoge</p>
+            <p>210 BabydogeCEO</p>
           </div>
         </div>
       </div>
@@ -407,8 +407,8 @@ function App() {
                     </span>
                   </div>
                   <div className="content-body ml-4">
-                    <h3 className="m-0">Add TelegramDoge Tokens</h3>
-                    <p className="mt-3">You will need TelegramDoge tokens in your wallet to stake. Once you purchase TelegramDoge tokens, make sure that you add the TelegramDoge token to your MetaMask/TrustWallet Wallet so you can view your TelegramDoge balance.</p>
+                    <h3 className="m-0">Add BabydogeCEO Tokens</h3>
+                    <p className="mt-3">You will need BabydogeCEO tokens in your wallet to stake. Once you purchase BabydogeCEO tokens, make sure that you add the BabydogeCEO token to your MetaMask/TrustWallet Wallet so you can view your BabydogeCEO balance.</p>
                   </div>
                 </div>
               </li>
@@ -435,8 +435,8 @@ function App() {
                     </span>
                   </div>
                   <div className="content-body ml-4">
-                    <h3 className="m-0">Stake TelegramDoge</h3>
-                    <p className="mt-3">You'll need to click the 'Stake TelegramDoge' and scroll to the top of the page to bring up the staking interface on the site.</p>
+                    <h3 className="m-0">Stake BabydogeCEO</h3>
+                    <p className="mt-3">You'll need to click the 'Stake BabydogeCEO' and scroll to the top of the page to bring up the staking interface on the site.</p>
                   </div>
                 </div>
               </li>
@@ -480,9 +480,9 @@ function App() {
               <img src="/img/content/cta_thumb.png" alt />
             </div>
             <div className="col-12 col-md-6 mt-4 mt-md-0">
-              <h2 className="m-0">BUY $TelegramDoge NOW</h2>
+              <h2 className="m-0">BUY $BabydogeCEO NOW</h2>
               <br />
-              <p>Still don’t have $TelegramDoge token? Buy it now on PancakeSwap and start staking your tokens</p>
+              <p>Still don’t have $BabydogeCEO token? Buy it now on PancakeSwap and start staking your tokens</p>
               <a className="btn btn-bordered active d-inline-block"><i className="icon-rocket mr-2" />Buy on Pancakeswap</a>
             </div>
           </div>
@@ -506,28 +506,28 @@ function App() {
             <div className="social-share ml-auto">
               <ul className="d-flex list-unstyled" style={{justifyContent: 'center'}}>
                 <li>
-                  <a href="https://t.me/TelegramDoge_Official">
+                  <a href="https://t.me/BabydogeCEO_Official">
                     <i className="fab fa-telegram" />
                   </a>
                 </li>
                 <li>
-                  <a href="https://t.me/TelegramDoge_OfficialNews">
+                  <a href="https://t.me/BabydogeCEO_OfficialNews">
                     <i className="fab fa-telegram" />
                   </a>
                 </li>
                 <li>
-                  <a href="https://TelegramDoge.finance">
+                  <a href="https://BabydogeCEO.finance">
                     <i className="fas fa-globe" />
                   </a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/TelegramDoge100">
+                  <a href="https://twitter.com/BabydogeCEO100">
                     <i className="fab fa-twitter" />
                   </a>
                 </li>
               </ul>
             </div>
-            <div className="copyright-area py-4">©2023 TelegramDoge, All Rights Reserved By <a href="#" target="_blank">TelegramDoge</a></div>
+            <div className="copyright-area py-4">©2023 BabydogeCEO, All Rights Reserved By <a href="#" target="_blank">BabydogeCEO</a></div>
           </div>
           {/* Scroll To Top */}
           <div id="scroll-to-top" className="scroll-to-top">
